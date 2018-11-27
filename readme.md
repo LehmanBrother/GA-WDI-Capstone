@@ -16,8 +16,9 @@ User will be able to:
  * Government programs: Granularity TBD, but at minimum will show top-level agencies and ideally one or more levels of subsidiaries
  * Consumer references: Will contain a variety of common consumer products, ranging from a Big Mac to the median house. User will also be able to add/edit/delete their own items after logging in
 
-### Wireframe
+### Wireframes
 ![alt text](./wireframe.png "Display")
+![alt text](./login_wireframe.png "Login/Add Item")
 
 ### Data Models
 * Top-level agency:
